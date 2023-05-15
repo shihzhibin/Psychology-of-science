@@ -36,5 +36,12 @@
         <li><a href="#Individual and Group Relationships: WABAResults">Individual and Group Relationships: WABAResults</a></li>
     </li>
       </ul>
+    <li>
+      <a href="#Discussion">Discussion</a>
+      <ul>
+        <li><a href="#Equivocal Results">Equivocal Results</a></li>
+        <li><a href="#A Note on Negative Affectivity">A Note on Negative Affectivity</a></li>
+</ol>
+</details>
       
      
