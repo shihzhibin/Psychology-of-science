@@ -30,3 +30,9 @@
       </ul>
     <li>
       <a href="#Results">Results</a>
+      <ul>
+        <li><a href="#Descriptive Statistics">Descriptive Statistics</a></li>
+        <li><a href="#Agreement Score Results">Agreement Score Results</a></li>
+        <li><a href="#Individual and Group Relationships: WABAResults">Individual and Group Relationships: WABAResults</a></li>
+    </li>
+      </ul>
