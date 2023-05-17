@@ -45,4 +45,5 @@
 </details>
       
 # __Introduction__
-This repository is a tutorial for the implementation of __The newsvendor problem with barter exchange__ based on the design of the paper _"The newsvendor problem with barter exchange"_  by [Hua, G., Zhang, Y., Chang, T.C.E, Wang, S., & Zhang, J. (2020)]("https://www.sciencedirect.com/science/article/abs/pii/S0925527313001837?via%3Dihub"). I wrote this tutorial as a showcase of application for the course "_Operations Research Applications and Implementation_" intructed by professor _Chia-Yen Lee_.       
+This repository is a tutorial for the implementation of __Individual and Nomothetic Models of Job Stress: An Examination of Work Hours, Cohesion, and Well-Being__ based on the design of the paper _"Individual and Nomothetic Models of Job Stress: An Examination of Work Hours, Cohesion, and Well-Being"_  by [Bliese, P. D., & Halverson, R. R. (1996)]("[https://www.sciencedirect.com/science/article/abs/pii/S0925527313001837?via%3Dihub](https://psycnet.apa.org/record/1996-05414-004)"). I wrote this tutorial as a showcase of application for the psychology workshop.
+
