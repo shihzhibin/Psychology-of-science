@@ -64,7 +64,7 @@ This repository is a tutorial for the implementation of __Individual and Nomothe
 ## __Nomothetic Perspectives of Job Stress__
 > In job stress research, one may also examine consistencies in how groups of individuals appraise and react to their environments.
 
-> Support for the nomothetic perspective of job stress research rests on establishing two conditions
+> Support for the nomothetic perspective of job stress research rests on establishing `two conditions`
 
 >First, it is important to demonstrate that group members agree about assessments of their work environments (i.e., their work climates), since establishing within-group agreement is crucial to the argument that climates exist (James, 1982; Klein, Dansereau, & Hall, 1994).
 
