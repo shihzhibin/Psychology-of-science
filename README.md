@@ -51,8 +51,11 @@ This repository is a tutorial for the implementation of __Individual and Nomothe
 > The study of job stress is dominated by models that emphasize individual perceptions as key components in the link between the environment and outcomes.
 
 > __(1)Frequently cited job stress theories such as cybernetic theory (Cummings & Cooper, 1979; Edwards, 1992)__
+> 
 > __(2)Person-environment fit theory(French,Caplan,&Harrison,1982)__
+> 
 > __(3)Transactional model(Lazarus&Folkman,1984)__
+> 
 > __(4)Facet model (Beehr & Newman, 1978)__ 
 
 
