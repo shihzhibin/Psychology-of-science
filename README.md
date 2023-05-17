@@ -61,3 +61,11 @@ This repository is a tutorial for the implementation of __Individual and Nomothe
 
 > Share `one key` similarity: They are based on the assumption that `individual differences in personal variables` such as `personality characteristics` ,`abilities`, `beliefsv, and goals play crucial roles in determining how individuals perceive and respond to their environments. 
 
+## __Nomothetic Perspectives of Job Stress__
+> In job stress research, one may also examine consistencies in how groups of individuals appraise and react to their environments.
+
+> Support for the nomothetic perspective of job stress research rests on establishing two conditions
+
+>First, it is important to demonstrate that group members agree about assessments of their work environments (i.e., their work climates), since establishing within-group agreement is crucial to the argument that climates exist (James, 1982; Klein, Dansereau, & Hall, 1994).
+
+>Second, it is important to demonstrate that there are differences in work climates across groupsandthatthesedifferencesarerelatedtogroupoutcomessuchaswell-being.
