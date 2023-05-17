@@ -49,9 +49,12 @@ This repository is a tutorial for the implementation of __Individual and Nomothe
 
 ## __Individual Level Perspectives of Job Stress__
 > The study of job stress is dominated by models that emphasize individual perceptions as key components in the link between the environment and outcomes.
+
 > __Frequently cited job stress theories such as cybernetic theory (Cummings & Cooper, 1979; Edwards, 1992)__
 > __Person-environment fit theory(French,Caplan,&Harrison,1982)__
 > __Transactional model(Lazarus&Folkman,1984)__
 > __Facet model (Beehr & Newman, 1978)__ 
+
+
 > Share `one key` similarity: They are based on the assumption that `individual differences in personal variables` such as `personality characteristics` ,`abilities`, `beliefsv, and goals play crucial roles in determining how individuals perceive and respond to their environments. 
 
