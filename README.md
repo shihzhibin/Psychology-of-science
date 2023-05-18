@@ -71,3 +71,6 @@ This repository is a tutorial for the implementation of __Individual and Nomothe
 >Second, it is important to demonstrate that there are differences in work climates across groupsandthatthesedifferencesarerelatedtogroupoutcomessuchaswell-being.
 
 >In the current study, we contrast individual and nomothetic perspectives of job stress by examining the linkages between several components of the work environment and psychological well-being. Specifically, we conducted a mul- tilevel examination of the relationships among `(a) work hours`, `(b) vertical cohesion`, `(c) horizontal cohesion`, and `(d) the dependent variable, psychological well-being`. On theoretical grounds, these variables can be conceptualized from either the individual or nomothetic perspectives. We begin by discussing psychological well-being.
+
+>We believe that the two perspectives test different aspects of the relationship between work hours and well-being. The nomothetic perspective examines whether the average well-being in a group is a function of the groups’ work load climate. The individual-level perspective examines whether an individual’s well-being is a function of the hours he or she reports working.
+>
