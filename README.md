@@ -69,3 +69,5 @@ This repository is a tutorial for the implementation of __Individual and Nomothe
 >First, it is important to demonstrate that group members agree about assessments of their work environments (i.e., their work climates), since establishing within-group agreement is crucial to the argument that climates exist (James, 1982; Klein, Dansereau, & Hall, 1994).
 
 >Second, it is important to demonstrate that there are differences in work climates across groupsandthatthesedifferencesarerelatedtogroupoutcomessuchaswell-being.
+
+>In the current study, we contrast individual and nomothetic perspectives of job stress by examining the linkages between several components of the work environment and psychological well-being. Specifically, we conducted a mul- tilevel examination of the relationships among `(a) work hours`, `(b) vertical cohesion`, `(c) horizontal cohesion`, and `(d) the dependent variable, psychological well-being`. On theoretical grounds, these variables can be conceptualized from either the individual or nomothetic perspectives. We begin by discussing psychological well-being.
