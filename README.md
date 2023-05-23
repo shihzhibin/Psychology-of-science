@@ -100,3 +100,7 @@ Vertical and horizontal cohesion. The Vertical Cohesion Scale is an 1l-item scal
 >To examine differences between individual and nomothetic (i.e., group- level) perspectives, __within and between analyses__ (WABA) were conducted __(Dansereau, Alutto, & Yammarino, 1984; Markham, 1988)__.
 
 >__WABA__ is a procedure for creating and contrasting between-unit and within-unit correlations. In WABA, `the between-unit correlation` is a group-level correlation based on __group means weighted__ by __group size__. `The within-unit correlation` is based on __an individual’s relative position within the group and holds differences across groups constant__ (Dansereau et al., 1984; Markham, 1988).
+
+>In WABA analyses, one makes inferences about group and individual effects in the context of the rewritten covariance theorem given in Equation 1 below (Dansereau et al., 1984; Markham, 1988):
+
+
