@@ -103,4 +103,6 @@ Vertical and horizontal cohesion. The Vertical Cohesion Scale is an 1l-item scal
 
 >In WABA analyses, one makes inferences about group and individual effects in the context of the rewritten covariance theorem given in Equation 1 below (Dansereau et al., 1984; Markham, 1988):
 
-
+<p style="text-align:center">
+  <img src="./psycolo/WABA.png"/>
+</p>
