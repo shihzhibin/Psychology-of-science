@@ -106,3 +106,38 @@ Vertical and horizontal cohesion. The Vertical Cohesion Scale is an 1l-item scal
 <p style="text-align:center">
   <img src="./psycolo/WABA.png"/>
 </p>
+
+<table>
+  <tr>
+    <td>Notation</td>
+    <td>Description</td>
+  </tr>
+  <tr>
+    <td>rxy,t</td>
+    <td>Raw Correlation</td>
+  </tr>
+  <tr>
+    <td>ηBx</td>
+    <td>Between-eta correlation for variable x</td>
+  </tr>
+  <tr>
+    <td>ηBy</td>
+    <td>Between-eta correlation for variable y</td>
+  </tr>
+  <tr>
+    <td>rxy,B</td>
+    <td>Between-unit correlation</td>
+  </tr>
+  <tr>
+    <td>ηWx</td>
+    <td>Within-eta correlation for variable x</td>
+  </tr>
+  <tr>
+    <td>ηWy</td>
+    <td>within-eta correlation for variable y</td>
+  </tr>
+  <tr>
+    <td>rxy,W</td>
+    <td>Within-unit correlation</td>
+  </tr>
+</table>
