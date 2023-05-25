@@ -163,5 +163,6 @@ Vertical and horizontal cohesion. The Vertical Cohesion Scale is an 1l-item scal
   <img src="./psycolo/table 1.png"/>
 </p>
 
+## __Agreement Score Results__
 
-
+>
