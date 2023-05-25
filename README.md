@@ -134,7 +134,7 @@ Vertical and horizontal cohesion. The Vertical Cohesion Scale is an 1l-item scal
   </tr>
   <tr>
     <td>ηWy</td>
-    <td>within-eta correlation for variable y</td>
+    <td>Within-eta correlation for variable y</td>
   </tr>
   <tr>
     <td>rxy,W</td>
