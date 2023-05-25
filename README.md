@@ -141,3 +141,13 @@ Vertical and horizontal cohesion. The Vertical Cohesion Scale is an 1l-item scal
     <td>Within-unit correlation</td>
   </tr>
 </table>
+
+### __WABA provides four potential outcomes (Dansereau et al. 1984;Markham, 1988)__
+
+>In the `wholes` (i.e., group) model, the between-unit correlation is significant and the within-unit correlation is null. 
+
+>In the `parts` (i.e., individual) model, the within-unit correlation is significant and the between-unit correlation is null.
+
+>In the `equivocal` model, both correlations are statistically significant, but do not significantly differ from each other.
+
+>In the `null` model, neither correlation is significant.
