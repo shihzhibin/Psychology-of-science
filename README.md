@@ -156,7 +156,7 @@ Vertical and horizontal cohesion. The Vertical Cohesion Scale is an 1l-item scal
 
 ## __Descriptive Statistics__
 
->Table 1 provides means, standarddeviations,and individuallevel correlations for the variables in the study.All correlations except the correlation between work hours and horizontal cohesion are significant (p < .OO 1). Because of the large sample size, some of the correlations may lack practical significance.
+>`Table 1` provides means, standard deviations,and individuallevel correlations for the variables in the study.All correlations except the correlation between work hours and horizontal cohesion are significant (p < 0.001). Because of the large sample size, some of the correlations may lack practical significance.
 
 
 <p style="text-align:center">
