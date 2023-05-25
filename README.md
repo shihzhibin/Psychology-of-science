@@ -142,7 +142,7 @@ Vertical and horizontal cohesion. The Vertical Cohesion Scale is an 1l-item scal
   </tr>
 </table>
 
-### __WABA provides four potential outcomes (Dansereau et al. 1984;Markham, 1988)__
+### WABA provides four potential outcomes (Dansereau et al. 1984;Markham, 1988)
 
 >In the `wholes` (i.e., group) model, the between-unit correlation is significant and the within-unit correlation is null. 
 
@@ -151,3 +151,14 @@ Vertical and horizontal cohesion. The Vertical Cohesion Scale is an 1l-item scal
 >In the `equivocal` model, both correlations are statistically significant, but do not significantly differ from each other.
 
 >In the `null` model, neither correlation is significant.
+
+# __Result__
+
+## __Descriptive Statistics__
+
+<p style="text-align:center">
+  <img src="./psycolo/WABA.png"/>
+</p>
+
+
+>Table 1 provides means, standarddeviations,and individuallevel correlations for the variables in the study.All correlations except the correlation between work hours and horizontal cohesion are significant (p < .OO 1). Because of the large sample size, some of the correlations may lack practical significance.
