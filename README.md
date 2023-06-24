@@ -165,7 +165,10 @@ Vertical and horizontal cohesion. The Vertical Cohesion Scale is an 1l-item scal
 
 ## __Agreement Score Results__
 
->The nomothetic perspective of work stress proposes that respondents from within the same work group should show agreementon assessmentsof the group’s work environment. The within-group agreement score results are presented in Table 2. As indicated by __James (1982)__,__ICC( 1)__ measures of within-group agreement generally `range from 0 to 0.50` with a `median of 0.12`. There are, however, no definitive guidelines for determining acceptable values. 
+>The nomothetic perspective of work stress proposes that respondents from within the same work group should show agreementon assessmentsof the group’s work environment. The within-group agreement score results are presented in Table 2. As indicated by __James (1982)__,__ICC( 1)__ measures of within-group agreement generally `range from 0 to 0.50` with a `median of 0.12`. There are, however, __no definitive guidelines for determining acceptable values__. 
+
 <p style="text-align:center">
   <img src="./psycolo/table 2.png"/>
 </p>
+
+>From `Table 2`, it is apparent that __ICC(1)__ values are __strongest__ for perceptions of `work hours (0.17)` and `vertical cohesion(0.16)`.__ICC(1)__ values are relatively __weak__ for perceptions of `horizontal cohesion (0.06)` and `well-being (0.06)`. The __RGR__ results show that there is significant __within-group agreement (p < .01)__ for `work hours`, `vertical cohesion`, and `well-being`. The __t value__ for `horizontal cohesion`, in contrast, is __not significant__ at the `0.05` convention (t= -1.30,<~ .lo,one-tailed).
