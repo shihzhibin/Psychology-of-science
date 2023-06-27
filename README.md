@@ -197,6 +197,8 @@ Vertical and horizontal cohesion. The Vertical Cohesion Scale is an 1l-item scal
 
 >Random group results. Two things are apparent when contrasting random group WABA results with U.S. Army company WABA results. The first is that the group effect for the work hours and well-being relationship is not present in the random group analysis: The between-group correlation for the random group WABA is -.18 (contrasted with -.71 for the U.S. Army companies). The second finding is that the magnitudes of the between-group and within-group correlations for randomly formed groups are very similar to the magnitudes of the raw correlations.
 
->
+<p style="text-align:center">
+  <img src="./psycolo/Figure 1.png"/>
+</p>
 
-
+>In Figure 1, we present a series of four scatter plots to help visually represent the hours worked and well-being group effect and to demonstrate why between-group correlations from randomly formed groups are similar to the magnitudes of raw correlations. Scatter plots on the top, __1(a) and 1(c)__, show relationships __between work hours and well-being__. Plots on the bottom, __1(b) and 1(d)__, show relationships between __vertical cohesion and well-being__. Plots on the left, __l(a) and l(b)__, are scatter plots from __the actual 99 U.S. Army companies__. Scatter plots on the right, __1(c) and 1(d)__, are from one set of __99 randomly formed groups__.
