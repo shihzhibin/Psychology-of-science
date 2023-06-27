@@ -183,3 +183,20 @@ Vertical and horizontal cohesion. The Vertical Cohesion Scale is an 1l-item scal
 
 >Table 3 presents __the WABA results__ in the form of the __rewritten covariance theorem (Dansereau et al., 1984)__
 
+<p style="text-align:center">
+  <img src="./psycolo/table 3.png"/>
+</p>
+
+> WABA components are presented for both U.S. Army companies and for random group aggregations.The components for the random group aggregations represent the average results across five separate WABA runs: one run for each of the five sets of randomly created groups.
+
+>The first column in Table 3 provides the raw correlation between the three independent variables and psychological well-being `(rxy,t)`.
+>The middle column provides the between-unit correlations for both the U.S. Army company and the random group aggregations `(rxy,B)`.
+>The last column provides the within- unit correlations for both the U.S. Army companies and the random groups `(rxy,w)`.
+
+>U.S. Army company results. Table 3 shows that __the between-unit correlation__ for `work hours` and `well-being` is `-.71`,while __the withinunit correlation__  is `-.11`.AZ test of differences between the two component correlations(Markham, 1988) indicates a statistically significant difference ( 2 = 7.56, p < .01). The results for the relationships between `vertical cohesion` and `well-being`, and `horizontal cohesion` and w`ell-being` are `equivocal`. In these cases, neither the individual-nor group-level correlations are dominant (2 = 1.38, ns for vertical cohesion and well-being; and Z = 0.31, ns for horizontal cohesion and well-being).
+
+>Random group results. Two things are apparent when contrasting random group WABA results with U.S. Army company WABA results. The first is that the group effect for the work hours and well-being relationship is not present in the random group analysis: The between-group correlation for the random group WABA is -.18 (contrasted with -.71 for the U.S. Army companies). The second finding is that the magnitudes of the between-group and within-group correlations for randomly formed groups are very similar to the magnitudes of the raw correlations.
+
+>
+
+
