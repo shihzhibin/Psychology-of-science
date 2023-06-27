@@ -178,3 +178,8 @@ Vertical and horizontal cohesion. The Vertical Cohesion Scale is an 1l-item scal
 >The __ICC(2)__ values from Table 2 suggest that the 99 U.S. Army companies can be clearly differentiated in terms of their `mean scores` on `hours worked`, `vertical cohesion`, `horizontal cohesion`, and `well-being` (0.92, 0.92, 0.78, and 0.77, respectively). In general, the ICC(I), RGR, and ICC(2) results provide evidence that aggregation is appropriate, although __the RGR results for horizontal cohesion__ indicate that aggregation may be __questionable__ for this variable.
 
 >`Table 2` also presents the ICC results for __the five sets of random groups__. In each run, the 7,382 respondents were randomly assigned to 99 groups having the exact size characteristics as the 99 U.S. Army companies. The random group aggregations represent the average results from five separate runs of 99 groups. It is clear from Table 2 that random group ICC values are considerably smaller than U.S. Army company ICC values. __In all cases, the random group ICCs are zero or negative__.
+
+## __Individual and Group Relationships: WABA Results__
+
+>Table 3 presents __the WABA results__ in the form of the __rewritten covariance theorem (Dansereau et al., 1984)__
+
